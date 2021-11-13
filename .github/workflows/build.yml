@@ -18,7 +18,7 @@ jobs:
             board: nice_nano_v2
           - shield: corne_left
             board: nice_nano_v2
-            diode-direction: col2row
+            diode-direction: row2col
           - shield: corne_right
             board: nice_nano_v2
     steps:
